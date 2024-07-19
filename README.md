@@ -14,7 +14,7 @@ Add the Provided Code: Copy and paste the code snippets provided into the respec
 Open index.html: Double-click index.html or open it in your preferred web browser.
 
 
-How It Works
+How It Works <br>
 Adding a Task:
 
 Enter a task in the input field and click "Add Task."
