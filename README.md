@@ -2,10 +2,10 @@
 To see how the To-Do List application looks and works, follow these steps to view the output:
 
 Create Project Files: Set up the files as follows in a directory:
-
+<br>
 index.html
 styles.css
-script.js
+script.js </br>
 Add the Provided Code: Copy and paste the code snippets provided into the respective files.
 
 Open index.html: Double-click index.html or open it in your preferred web browser.
