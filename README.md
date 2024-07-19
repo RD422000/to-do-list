@@ -1,7 +1,9 @@
 # to-do-list
 To see how the To-Do List application looks and works, follow these steps to view the output:
 
-Create Project Files: Set up the files as follows in a directory:
+Create Project Files: 
+<br>
+Set up the files as follows in a directory:
 <br>
 index.html
 <br>
@@ -10,24 +12,24 @@ styles.css
 script.js <br>
 <br>
 Add the Provided Code: Copy and paste the code snippets provided into the respective files.
-
+<br>
 Open index.html: Double-click index.html or open it in your preferred web browser.
 
-
+<br>
 How It Works <br>
 Adding a Task:
-
+<br>
 Enter a task in the input field and click "Add Task."
-The task appears in the list with "Complete" and "Remove" buttons.
+<br>The task appears in the list with "Complete" and "Remove" buttons.
 <br> Completing a Task:
 
-Click "Complete" next to the task to cross it out and mark it as completed.
-Removing a Task:
+<br>Click "Complete" next to the task to cross it out and mark it as completed.
+<br>Removing a Task:
 
-Click "Remove" next to the task to delete it from the list.
+<br>Click "Remove" next to the task to delete it from the list.
 
 
-Testing the App
+<br>Testing the App
 
 Add Tasks: Try adding a few tasks to see how they appear.
 
