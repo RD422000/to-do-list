@@ -22,16 +22,12 @@ Adding a Task:
 Enter a task in the input field and click "Add Task."
 <br>The task appears in the list with "Complete" and "Remove" buttons.
 <br> Completing a Task:
-
 <br>Click "Complete" next to the task to cross it out and mark it as completed.
-<br>Removing a Task:
-
+<br>
+Removing a Task:
 <br>Click "Remove" next to the task to delete it from the list.
-
-
 <br>Testing the App
-
-Add Tasks: Try adding a few tasks to see how they appear.
+<br>Add Tasks: Try adding a few tasks to see how they appear.
 
 Complete Tasks: Click the "Complete" button to see the task text cross out.
 
