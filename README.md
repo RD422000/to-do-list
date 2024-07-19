@@ -8,6 +8,7 @@ index.html
 styles.css
 <br>
 script.js <br>
+<br>
 Add the Provided Code: Copy and paste the code snippets provided into the respective files.
 
 Open index.html: Double-click index.html or open it in your preferred web browser.
