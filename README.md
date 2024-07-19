@@ -19,7 +19,7 @@ Adding a Task:
 
 Enter a task in the input field and click "Add Task."
 The task appears in the list with "Complete" and "Remove" buttons.
-Completing a Task:
+<br> Completing a Task:
 
 Click "Complete" next to the task to cross it out and mark it as completed.
 Removing a Task:
