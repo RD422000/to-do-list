@@ -25,6 +25,9 @@ Click "Remove" next to the task to delete it from the list.
 
 
 Testing the App
+
 Add Tasks: Try adding a few tasks to see how they appear.
+
 Complete Tasks: Click the "Complete" button to see the task text cross out.
+
 Remove Tasks: Click the "Remove" button to delete a task.
